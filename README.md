@@ -1,2 +1,2 @@
 # cube
-Rotating cube woth PyOpenGL and PyGame
+Rotating cube with PyOpenGL and PyGame
